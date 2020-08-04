@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L13_Homework</string>
+    <string name="sur_name">Input surname</string>
+    <string name="first_name">Input firstname</string>
+    <string name="date_txt">Input date</string>
+    <string name="btn_name">Save</string>
+    <string name="btn_ok">OK</string>
+    <string name="txt_msg">Data is successfully saved</string>
+</resources>
